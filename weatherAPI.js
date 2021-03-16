@@ -9,7 +9,7 @@ function conn(){
 		"url": "https://community-open-weather-map.p.rapidapi.com/forecast/daily?lat="+lat+"&lon="+lng+"&cnt=7",
 		"method": "GET",
 		"headers": {
-			"x-rapidapi-key": "a69a484665msh60376b172ca5bb0p12c9bejsnb540084eb980",
+			"x-rapidapi-key": "key",
 			"x-rapidapi-host": "community-open-weather-map.p.rapidapi.com"
 		},
 		"dataType":"json"
